@@ -14,11 +14,11 @@ Here are the problems:
 
 In Xcode 11, the default light theme uses `SF Mono SemiBold` for Keywords and mostly `SF Mono Regular` for other components; the default dark theme uses `SF Mono Bold` for Keywords and mostly `SF Mono Medium` for other components.
 
-In a pageful of codes, especially in a nested jungle of HStack, VStack, List, these bolded Keywords appears overwhelming. I believe Class, Type, and Method should be the first class citizens in syntax highlighting, because they varied a lot, while Keywords are merely repetative companions.
+In a pageful of codes, especially in a nested jungle of HStack, VStack, List, these bolded Keywords appears overwhelming. I believe Class, Type, and Method should be the first class citizens in syntax highlighting, because they varied a lot, while Keywords are merely repetitive companions.
 
 ![](./assets/shibuya_01.png)
 
-In Shibuya theme, Class, Type, and Method take precednece over Keywords.
+In Shibuya theme, Class, Type, and Method take precedence over Keywords.
 
 ## Problem 2: Monotone syntax highlighting makes it difficult to differentiate Method Names and Instance Variables
 

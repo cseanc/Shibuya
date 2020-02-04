@@ -38,7 +38,7 @@ In default Xcode theme, developers tend to lose focus in a sea of codes because 
 
 ![](./assets/shibuya_03.png)
 
-In Shibuya theme, developers can instantly difference a framework Class, Type, Methods with a project one. The syntax highlighting are designed to be in adjacent colors: in above image, Other Class / Type Names are in dark pink, while Project Class / Type Names are in dark red.
+In Shibuya theme, developers can instantly differentiate a framework Class, Type, Methods with a project one. The syntax highlighting are designed to be in adjacent colors: in above image, Other Class / Type Names are in dark pink, while Project Class / Type Names are in dark red.
 
 # Installation
 

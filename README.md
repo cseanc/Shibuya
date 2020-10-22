@@ -1,4 +1,6 @@
 # Shibuya
+## An Xcode Theme for SwiftUI
+> Read the design story on [Medium](https://medium.com/swlh/shibuya-an-xcode-theme-for-swiftui-dd795745e61b).
 
 What it looks like:
 

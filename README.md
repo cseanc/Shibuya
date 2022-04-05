@@ -2,9 +2,9 @@
 ## An Xcode Theme for SwiftUI
 
 
-Read the Design Story [here](https://seanios.ghost.io/shibuya-an-xcode-theme-for-swiftui/).
+### Read the Design Story [here](https://seanios.ghost.io/shibuya-an-xcode-theme-for-swiftui/).
 
-### What it looks like:
+#### What it looks like:
 
 ![shibuya_04](./assets/shibuya-001@2x.png)
 

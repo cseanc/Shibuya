@@ -6,7 +6,7 @@
 
 #### What it looks like:
 
-![shibuya_04](./assets/shibuya-001@2x.png)
+![shibuya_04](./assets/shibuya-001_new.png)
 
 # Installation
 
